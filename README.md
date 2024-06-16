@@ -1,4 +1,4 @@
-### Summary of Item-Based Collaborative Filtering Code
+### Course Recommendation System 
 
 **Item-based collaborative filtering** is a recommendation algorithm that suggests products based on item similarities. Here's a summary of how it works and the code provided:
 
